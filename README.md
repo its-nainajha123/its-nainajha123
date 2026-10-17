@@ -72,7 +72,7 @@ I am a **Data Scientist & Research Assistant at AIIMS Patna**, working at the in
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Naina's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/? its-nainajha123 &layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
