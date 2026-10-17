@@ -4,7 +4,7 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/naina-kumari-iitp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:nainakumari2k6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
@@ -64,16 +64,6 @@ I am a **Data Scientist & Research Assistant at AIIMS Patna**, working at the in
 | **[Project 3: Generative AI Workflow]** | GenAI, Python | Engineered structured prompts and automated LLM workflows for automated insights extraction. |
 
 *(Replace with links to your actual repository projects)*
-
----
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-nainajha123 &show_icons=true&theme=radical&hide_border=true" alt="Naina's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/? its-nainajha123 &layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
