@@ -63,8 +63,6 @@ I am a **Data Scientist & Research Assistant at AIIMS Patna**, working at the in
 | **[Project 2: Interactive BI Dashboard]** | Power BI / SQL | Transformed raw transactional data into executive KPI dashboards for operational decision-making. |
 | **[Project 3: Generative AI Workflow]** | GenAI, Python | Engineered structured prompts and automated LLM workflows for automated insights extraction. |
 
-*(Replace with links to your actual repository projects)*
-
 ---
 
 <div align="center">
